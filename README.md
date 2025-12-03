@@ -115,7 +115,7 @@ Main exploratory analysis:
 
 ---
 
-## 🚀 **How to Run This Project**
+## **How to Run This Project**
 
 1. Download the dataset from Kaggle  
 2. Open MySQL Workbench  

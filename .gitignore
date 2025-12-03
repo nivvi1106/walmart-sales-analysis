@@ -1,0 +1,25 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+Icon?
+*.icloud
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*.swo
+
+.vscode/
+
+__pycache__/
+
+# MySQL Workbench temp files
+*.mwb.bak
+*.zip
+
+# Ignore Git-related backup files
+*.orig
+

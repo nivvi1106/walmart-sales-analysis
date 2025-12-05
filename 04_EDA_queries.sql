@@ -62,7 +62,7 @@ ORDER BY Week;
 
 
 
--- HOLIDAY VS NON-HOLIDAY SALES IMPACT
+-- Holdiay VS Non-Holiday Impact
 
 -- 1. Average holiday week sales vs non-holiday week sales
 SELECT 
@@ -94,7 +94,7 @@ ORDER BY Holiday_Impact_Percent DESC;
 
 
 
--- High value insights (strategic findings- growth, volatility, best & worst periods)
+-- High value insights (strategic findings- growth, best & worst periods)
 
 -- 1. Fastest growing stores (highest avg Sales_Growth)
 SELECT 
